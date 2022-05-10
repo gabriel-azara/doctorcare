@@ -72,7 +72,7 @@ ScrollReveal({
    #home .stats,
    #services,
    #services header,
-   #services .cards,
+   #services .card,
    #about,
    #about header,
    #about .content`)
